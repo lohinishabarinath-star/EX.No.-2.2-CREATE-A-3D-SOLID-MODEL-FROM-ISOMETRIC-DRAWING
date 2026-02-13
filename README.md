@@ -108,7 +108,8 @@ Output:
 
 <img width="1259" height="720" alt="Screenshot 2026-02-12 142834" src="https://github.com/user-attachments/assets/27302e34-5e9e-4e42-8f94-6415bb21f9b8" />
 
-<img width="1149" height="740" alt="image" src="https://github.com/user-attachments/assets/f7eacc1b-fc4c-4bc0-b8a7-0356222c4148" />
+<img width="1246" height="786" alt="image" src="https://github.com/user-attachments/assets/f6179cce-d8b1-4d22-9841-bd48c048cdba" />
+
 
 
 ## RESULT: 
